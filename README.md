@@ -79,9 +79,9 @@ Admin can create a new News feed and can also publish it on website along with t
 
 ![Screenshot (398)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/5a11e113-d8dd-4c92-a3b8-572aa39c77b7)
 
-To make the Application Mobile Friendly I have made use of below mentioned syntaxes in index.html
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-and also used @media in my CSS Code.
+To make the Application Mobile Friendly I have made use of below mentioned syntaxes in index.html   <meta 
+   name="viewport" content="width=device-width, initial-scale=1.0">
+ and also used @media in my CSS Code.
 
 
 
