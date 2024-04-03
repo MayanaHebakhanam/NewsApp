@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+.container {
+        width: 100%;
+
+}
+.sidebar {
+    width: 100%; /* Make the sidebar full width */
+    background-color: lightblue;
+    position: absolute;
+    top: 0; /* Align the sidebar at the top of the page */
+    left: 0;
+    margin: 0; 
+    height: 156px;
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+
+.content {
+    flex: 1; /* Take remaining space */  
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between; /* Distribute items evenly */
+    align-items: center;
+    font-size: 24px;
+    padding-left: 10px;
+    text-align: center;
+    
+}
+
+.image{
+    width: 90px;
+    height:90px;
+    position: absolute;
+    top:0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 2px;
+    border-radius: 50%;
+    
+}
+.text{
+    margin-top: 10px;
+    margin-left: 110px;
+    font-size: 39px;
+    color:blue;
+    font-style: italic;
+}
+
+
+.footer-text{
+    color:purple;
+    font-weight: bolder;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 0.5px;
+}
+
+.welcome{
+    color: darkorchid;
+    margin-top: 29px;
+    
+}
+
+.intro{
+    color:darkblue;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 34px;
+    margin-top: 80px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.block-container {
+    display: flex;
+    justify-content: space-between; 
+    width:95%;
+    height:30%;
+}
+.block:first-child{
+    margin-left: 1px;
+}
+
+.block {
+    background: linear-gradient(35deg, lightblue, lightpink, lightblue);
+    width: 95%;
+    height: 20%;
+    font-weight: bolder;
+    font-size: large;
+    color: darkblue;
+    margin-left: 25px;
+    text-align: center;
+    transition: box-shadow 0.3s ease; /* Add transition for hover effect */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border-style: outset;
+    border-radius: 28px;
+    align-items: center;
+}
+
+
+.heading{
+    color:blue;
+    font-size: 29px;
+    font-weight: bolder;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: auto;
+}
+
+@media only screen and (max-width: 767px) {
+    body {
+      font-size: 16px;
+    }
+  
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  
+    .container {
+      padding: 10px;
+    }
+  }
+  
+
+
+

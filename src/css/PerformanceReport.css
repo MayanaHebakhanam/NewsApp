@@ -1,0 +1,39 @@
+.container {
+  max-width: 100%; /* Adjust as needed */
+  margin-left: 20px;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  padding: 20px;
+  display: flex;
+}
+
+.chartContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: nowrap; /* Prevent charts from wrapping */
+}
+
+.chartTitle {
+  font-size: 28px;
+  font-weight: bold;
+  color: darkblue;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+.chart {
+  margin-bottom: 40px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  .chartTitle {
+    font-size: 14px; /* Adjust as needed */
+    color: darkblue;
+  }
+}

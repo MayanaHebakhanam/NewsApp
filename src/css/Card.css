@@ -1,0 +1,82 @@
+.card {
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 8px;
+  width: 300px; /* Adjust width based on the number of cards per row and gap */
+  height: 150px;
+  margin: 10px 40px 170px 30px; /* Adjust the gap between cards */
+  text-align: center;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+
+.card-image {
+  width: 300px;
+  height: 150px; 
+  margin: 0;
+  padding: 0;
+  display: block;
+  line-height: 0; /* Remove any potential line height */
+  object-fit: cover; 
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card-main-text {
+  width: 300px;
+  height: 150px; 
+  color: blue;
+  background-color: lightgray;
+  display: block;
+  padding: 0;
+  text-align: center;
+  margin: 0;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+
+
+.Scard {
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 8px;
+  width: 300px; 
+  background-color: salmon;
+  margin: 0 40px 100px 30px; /* Adjust the gap between cards */
+  text-align: center;
+  color: black;
+  height: 60px;
+  font-size: 20px;
+  border-radius: 8px;
+  }
+
+
+
+.Scard-interactions button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+
+.Scard-interactions button:hover {
+  background-color: brown;
+}
+
+
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 16px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
