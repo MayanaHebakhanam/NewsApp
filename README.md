@@ -32,7 +32,7 @@ This page contains performance report metrics such as likes, comments and views 
 
 Below are snippets from Performance Report Page:
 
-![Screenshot (382)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/5a706e59-b71d-48ac-ade3-03dcc94fe071)
+![Screenshot (382)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/c889ff55-352c-4950-ba3a-3be3ac2a8aea)
 
 ![Screenshot (381)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/29d0093f-0644-4fd4-8f89-122b4246374f)
 
