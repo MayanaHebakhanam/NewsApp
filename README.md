@@ -34,11 +34,11 @@ Below are snippets from Performance Report Page:
 
 ![Screenshot (382)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/c889ff55-352c-4950-ba3a-3be3ac2a8aea)
 
-![Screenshot (381)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/29d0093f-0644-4fd4-8f89-122b4246374f)
+![Screenshot (381)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/a78b2ede-cbd8-4567-b872-aad4d5a37c49)
 
-![Screenshot (377)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/6b7a665d-1bff-4005-add8-1c693c09bcbe)
+![Screenshot (377)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/823c6cec-f17e-48ba-bbd8-3d79bb2a540c)
 
-![Screenshot (379)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/480076e3-a52d-47a2-9f85-8fa552fabd4f)
+![Screenshot (379)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/d5ebf22d-5422-492f-a147-5ec7ac116bf0)
 
 Manage News Feed Page:
 This page contains all the news details such as News tittle, News description, Creation Date, Category of News, Status of News(Published or Drafted) along with three buttons to Delete a News, to Edit a News and to view News in detail.
@@ -54,30 +54,30 @@ Helps to make changes to the already existing news and save the changes.
 
 Below are snippets from Manage Feed News:
 
-![Screenshot (390)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/62c8d95f-d1b8-497b-8024-18c34ae1a53e)
+![Screenshot (390)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/0edf1194-d57f-42a7-8b2b-f62d304e2d43)
 
 After performing delete operation:
 
-![Screenshot (391)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/b145668d-121b-4578-9c01-498687673a42)
+![Screenshot (391)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/68868161-d96f-4787-a338-c642f59fd9b1)
 
 After Performing Edit Operation:
 
-![Screenshot (392)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/9a482dd0-eb76-411e-a82e-8d7689250462)
+![Screenshot (392)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/9930151e-048b-446b-8b31-2d92799e36c9)
 
-![Screenshot (393)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/bf7d67a8-9595-45eb-919c-8bf41378701d)
+![Screenshot (393)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/40440efb-d411-4794-b87d-43fb1ca36fb3)
 
 After performing View Details Operation:
 
-![Screenshot (394)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/66f40fae-f316-4d98-bd4f-fa81666757e4)
+![Screenshot (394)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/ceb560cb-91b0-4a09-a9ee-c0cdc4330d41)
 
 Create News Feed Page:
 Admin can create a new News feed and can also publish it on website along with that admin can also view how that news looks on mobile before publishing in Mobile Preview option.
 
-![Screenshot (395)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/f2baa33c-11ca-439a-906b-c9468d07edfe)
+![Screenshot (395)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/5ded34c1-016e-4356-9ca2-d37e0e149f85)
 
-![Screenshot (396)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/76f83638-98c0-42c1-a8bc-9ae5b7e0830d)
+![Screenshot (396)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/39cef39c-0b99-4599-8f41-b010befd8f45)
 
-![Screenshot (398)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/7492a965-6f24-47df-96f8-ab2093f14990)
+![Screenshot (398)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/5a11e113-d8dd-4c92-a3b8-572aa39c77b7)
 
 To make the Application Mobile Friendly I have made use of below mentioned syntaxes in index.html
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
