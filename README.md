@@ -12,17 +12,17 @@ This is basically an Admin Page where the admin can access all the details menti
 
 Below are snippets from Home page:
 
-![Screenshot (383)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/294d6ad3-38bd-446d-b9fa-f5ce639a03e8)
+![Screenshot (383)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/de2b1486-a4f8-4e73-a8ee-e853608b0d80)
 
-![Screenshot (384)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/ee73c1cf-4585-4757-aadc-0b1288bcf463)
+![Screenshot (384)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/4e5f88d9-703d-44a3-98c9-ccb6b9b9b8d8)
 
-![Screenshot (385)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/852c0da6-adf9-4a8e-8f01-c165c5df538c)
+![Screenshot (385)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/eea60035-6ec3-49b4-9d51-d220f1d75837)
 
-![Screenshot (389)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/c78e9252-f80b-45dc-9bf9-81c06a2e1910)
+![Screenshot (389)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/46b5987e-70d8-430e-907d-67acb868b367)
 
-![Screenshot (388)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/8e6106d6-d247-4242-988c-18ad53e6da7d)
+![Screenshot (388)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/e1d9bf3b-4813-4333-8ea9-e859ee406c7e)
 
-![Screenshot (387)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/a0f63f78-47cf-4e6c-b93d-72fc97b0ce75)
+![Screenshot (387)](https://github.com/MayanaHebakhanam/NewsApp/assets/76441726/e086f573-eaaa-4215-85d6-155dce56b43a)
 
 
 
